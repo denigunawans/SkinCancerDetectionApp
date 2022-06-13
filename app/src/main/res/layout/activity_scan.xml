@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".ui.ScanActivity">
+
+    <ImageView
+        android:id="@+id/previewImageView"
+        android:layout_width="175dp"
+        android:layout_height="159dp"
+        android:layout_marginTop="68dp"
+        app:srcCompat="@drawable/ic_email_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/cameraButton"
+        android:layout_width="105dp"
+        android:layout_height="55dp"
+        android:text="@string/tx_camera"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toStartOf="@+id/galleryButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/previewImageView" />
+
+    <Button
+        android:id="@+id/galleryButton"
+        android:layout_width="105dp"
+        android:layout_height="55dp"
+        android:text="@string/tx_galery"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/cameraButton"
+        app:layout_constraintTop_toBottomOf="@+id/previewImageView" />
+
+    <TextView
+        android:id="@+id/tx_reesult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tx_hasil"
+        android:layout_marginBottom="6dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/result_column"
+        app:layout_constraintStart_toStartOf="@+id/cameraButton" />
+
+    <TextView
+        android:id="@+id/result_column"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:paddingTop="6dp"
+        android:paddingStart="6dp"
+        android:background="@drawable/textview_border"
+        app:layout_constraintBottom_toTopOf="@+id/btn_scan"
+        app:layout_constraintEnd_toEndOf="@+id/galleryButton"
+        app:layout_constraintStart_toStartOf="@+id/cameraButton"
+        app:layout_constraintTop_toBottomOf="@+id/cameraButton" />
+
+    <Button
+        android:id="@+id/btn_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="@string/tx_scan"
+        android:text="@string/tx_scan"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

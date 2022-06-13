@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467866442266",
+    "project_id": "ecstatic-axiom-344406",
+    "storage_bucket": "ecstatic-axiom-344406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467866442266:android:aba77dc92794f9c21ccfa3",
+        "android_client_info": {
+          "package_name": "com.capstone.skincancerdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467866442266-5ebinc42gj76uds6c4p0onbjjlnhnspa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.skincancerdetection",
+            "certificate_hash": "f4c244846db5ce1b466e10f7e840e329240af229"
+          }
+        },
+        {
+          "client_id": "467866442266-ocdb4673012kah9hf7bq5e8o358dnuav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBdQdc0beUPDYPUensik8H7kev-Hqd6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467866442266-cim3e3r0k14bjegva9nrlecjoim3ur2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

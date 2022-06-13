@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tittle_artikel">
+        <item>Apa Itu Kanker Kulit?</item>
+        <item>Apa Saja Gejala Kanker Kulit?</item>
+        <item>Apa Penyebab Kanker Kulit?</item>
+        <item>Bagaimana cara mengobati Kanker Kulit?</item>
+    </string-array>
+
+    <string-array name="content_artikel">
+        <item>Kanker kulit adalah jenis kanker yang tumbuh di jaringan kulit. Kondisi ini ditandai dengan perubahan
+        pada kulit, seperti munculnya benjolan, bercak, atau tahi lalat dengan bentuk dan ukuran yang tidak normal. Kanker kulit diyakini
+        terjadi karena paparan sinar ultraviolet yang berasal dari matahari. </item>
+        <item>Gejala atau tanda kanker kulit umumnya muncul pada bagian tubuh yang sering terpapar sinar matahari, seperti kulit kepala, wajah, telinga, leher, lengan, atau  tungkai. Akan tetapi, kanker kulit juga dapat terjadi di bagian tubuh yang jarang terkena sinar matahari, seperti telapak tangan, kaki, atau bahkan area kelamin.
+
+Berikut ini adalah gejala kanker kulit berdasarkan jenisnya:
+
+Karsinoma sel basal\n
+Karsinoma sel basal ditandai dengan benjolan lunak dan mengkilat di permukaan kulit, atau lesi berbentuk datar pada kulit berwarna gelap atau cokelat kemerahan yang menyerupai daging.
+
+Karsinoma sel skuamosa
+Karsinoma sel skuamosa ditandai dengan benjolan merah keras pada kulit, atau lesi yang berbentuk datar dan bersisik seperti kerak. Lesi dapat terasa gatal, berdarah, hingga menjadi kerak.
+
+Kanker kulit melanoma
+Kanker kulit melanoma ditandai dengan bercak atau benjolan berwarna cokelat. Melanoma memang menyerupai tahi lalat biasa, namun bentuknya lebih tidak beraturan. Metode ABCDE bisa digunakan untuk membedakan tahi lalat biasa dengan melanoma. Metode tersebut meliputi:
+
+Asimetris, sebagian besar melanoma memiliki bentuk yang tidak asimetris.
+Border (pinggiran), tepi melanoma cenderung tidak beraturan.
+Color (warna), warna melanoma lebih dari satu.
+Diameter, ukuran melanoma lebih dari 6 mm.
+Evolusi, yaitu terjadi perubahan bentuk, warna, atau ukuran tahi lalat.
+Evolusi merupakan tanda yang terpenting dari melanoma.</item>
+        <item>Kanker kulit disebabkan oleh mutasi atau perubahan genetik yang terjadi pada sel kulit.
+            Penyebab perubahan tersebut belum dapat diketahui, tetapi dugaan kuat terjadi karena paparan sinar matahari berlebihan. Sinar ultraviolet bisa mengakibatkan kerusakan kulit dan memicu pertumbuhan abnormal pada sel kulit. Inilah yang selanjutnya meningkatkan potensi kanker. </item>
+        <item>Pengobatan Kanker Kulit\n
+Pengobatan kanker kulit bergantung pada jenis, lokasi, dan stadium kanker kulit yang dialami pengidap. Ada beberapa pilihan pengobatan yang dapat dilakukan, yaitu:\n
+-Penggunaan Krim:\n
+-Krioterapi:\n
+-Operasi atau Bedah:\n
+-Kuretase:\n
+-Radioterapi:\n
+-Kemoterapi:\n
+-Terapi Biologis:\n
+</item>
+    </string-array>
+</resources>
